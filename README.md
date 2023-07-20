@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:CEECF5,100:E0F8F1&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CEECF5,100:E0F8F1&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/>
+  <h2>Hi!</h2>
+  ❤️🧡💛💚💙💜
+</div>
