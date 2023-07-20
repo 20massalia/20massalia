@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CEECF5,100:E0F8F1&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=E0F8F7&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/>
   <h2>Hi!</h2>
   ❤️🧡💛💚💙💜
 </div>
