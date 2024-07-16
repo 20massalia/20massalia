@@ -1,17 +1,14 @@
 <div align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=soft&color=E0F8F7&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/> -->
-  <h2>🩵🤍💙</h2>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10CFF7&center=true&random=false&width=435&lines=Hi%2C+I'm+Jea-In+Lee!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51b6f5&center=true&random=false&width=435&lines=Hi%2C+I'm+Jea-In+Lee!)](https://git.io/typing-svg)
 <br/>
-<br/>
-<br/>
+
 <h2>Languages & Tools 🛠</h2>
 <table>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20massalia" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20massalia&layout=donut" alt="Top Langs" />
       </a>
     </td>
     <td>
@@ -27,4 +24,10 @@
     </td>
   </tr>
 </table>
+<br/>
+<h2>Follow me 😙</h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=20massalia)](https://github.com/20massalia/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=20massalia)](https://velog.io/@20massalia/posts)
 </div>
