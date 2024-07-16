@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=E0F8F7&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=soft&color=E0F8F7&height=300&section=header&text=(❁´◡`❁)&fontSize=80&fontColor=0B173B"/> -->
   <h2>🩵🤍💙</h2>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10CFF7&center=true&random=false&width=435&lines=Hi%2C+I'm+Jea-In+Lee!)](https://git.io/typing-svg)
