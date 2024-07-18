@@ -27,7 +27,7 @@
 <br/>
 <h2>Follow me 😙</h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=20massalia)]([https://github.com/20massalia/velog-readme-stats](https://velog.io/@20massalia/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%81%EB%8C%80-%EB%8B%A8%EC%9C%84))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=20massalia)](https://velog.io/@20massalia/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%81%EB%8C%80-%EB%8B%A8%EC%9C%84)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=20massalia)](https://velog.io/@20massalia/posts)
 </div>
