@@ -1,7 +1,8 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51b6f5&center=true&random=false&width=435&lines=Hi%2C+I'm+Jea-In+Lee!)](https://git.io/typing-svg)
-<br/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{20massalia}"/>
+</a>
 
 <h2>Languages & Tools 🛠</h2>
 <table>
