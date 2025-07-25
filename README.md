@@ -6,7 +6,7 @@
 
 ## 🛠 Languages & Tools
 
-### 🎨 Frontend
+### 💻 Frontend
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/react%20native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white"/>
