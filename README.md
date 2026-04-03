@@ -34,6 +34,10 @@
   <img src="https://render.gitanimals.org/farms/20massalia" alt="GitAnimals" />
 </a>
 
+---
+
+### 🦉 Duolingo
+
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
