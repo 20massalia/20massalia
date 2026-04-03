@@ -1,0 +1,18 @@
+name: Duolingo README Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: centrumek/duolingo-readme-stats@main
+        with:
+          DUOLINGO_USER_ID: 1707810712
+          ADVANCED_TOKEN_JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjYzMDcyMDAwMDAsImlhdCI6MCwic3ViIjoxNzA3ODEwNzEyfQ.-UrtFfHlnmtGObqSbpvPjpOYSzd99p9xpcCZT4y8G8M
