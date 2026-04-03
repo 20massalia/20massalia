@@ -33,3 +33,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/20massalia" alt="GitAnimals" />
 </a>
+
+<!--START_SECTION:duolingoStats-->
+<!--END_SECTION:duolingoStats-->
