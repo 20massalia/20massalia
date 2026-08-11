@@ -14,11 +14,11 @@
 
 | Username | Day Streak | Total XP | XP This Week | League |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> 20massalia | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 518 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 113207 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/leagues/diamond.png" height="12"> Diamond |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> 20massalia | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 519 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 113337 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 130 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/leagues/diamond.png" height="12"> Diamond |
 
 | Language | XP |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/german.svg" height="12"> German (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/korean.svg" height="12"> Korean) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 66330 |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/german.svg" height="12"> German (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/korean.svg" height="12"> Korean) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 66460 |
 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/english.svg" height="12"> English (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/korean.svg" height="12"> Korean) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 42217 |
 
 <!--END_SECTION:duolingoStats-->
