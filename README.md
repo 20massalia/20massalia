@@ -21,6 +21,12 @@
 
 ---
 
+### 📝 Latest Posts
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=20massalia)](https://velog.io/@20massalia)
+
+---
+
 ### 🦉 Duolingo
 
 <!--START_SECTION:duolingoStats-->
